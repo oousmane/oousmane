@@ -5,4 +5,5 @@ My Name is Ousmane Ouedraogo, I'm R (#rstats) enthousiast. I have particular int
 - Crop Modelling
 - Statistics 
 - Geocomputation
+
 I'm curious, and love to explore new things related to #rstats programming. Feel free to contact me here : oousmane@proton.me.
