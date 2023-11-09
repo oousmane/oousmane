@@ -7,4 +7,5 @@ My Name is Ousmane Ouedraogo, I'm R (#rstats) enthousiast. I have particular int
 - Geocomputation
 
 Visit my personal website here : www.oousmane.com/
+
 I'm curious, and love to explore new things related to #rstats programming. Feel free to contact me here : oousmane@proton.me.
